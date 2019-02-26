@@ -4,10 +4,10 @@ This is a small LSPDFR plugin that will automatically activate Easy Loadout when
 
 ## Requirements
 
-* Rage Plugin Hook (Developed and tested on RPH v0.62.1216.14731)
-* LSPD First Response (Developed and tested on LSPDFR v0.3.1)
+* Rage Plugin Hook (Developed and tested on RPH v0.64.1234.15464)
+* LSPD First Response (Developed and tested on LSPDFR v0.4)
 * RageNativeUI (Developed and tested on RageNatuveUI v1.6.3)
-* EasyLoadout (Developed and tested on EasyLoadout v1.10.1.70)
+* EasyLoadout.Core (Developed and tested on EasyLoadout v1.7)
 
 NOTE: This does require you have Easy Loadout install, but does not require that it is loaded when you go on-duty to work.
 
